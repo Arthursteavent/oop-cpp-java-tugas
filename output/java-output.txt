@@ -1,0 +1,12 @@
+Program Studi: Teknik Informatika
+================================
+Nama: Andi
+NIM: 1003260053
+Biaya kuliah: Rp32000
+--------------------------------
+Nama: Siti
+NIM: 1003260054
+Biaya kuliah: Rp45000
+--------------------------------
+Total biaya kuliah: Rp77000
+Biaya mahasiswa pertama setelah diskon 10%: Rp28800
